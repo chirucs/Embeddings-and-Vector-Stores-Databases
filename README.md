@@ -30,8 +30,8 @@ Embeddings are essential in machine learning for converting complex data types s
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/chirucs/Embeddings-and-Vector-Stores-Databases.git
+cd Embeddings-and-Vector-Stores-Databases
 pip install -r requirements.txt
 ```
 
