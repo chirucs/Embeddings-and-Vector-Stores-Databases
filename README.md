@@ -1,7 +1,5 @@
-# Embeddings-and-Vector-Stores-Databases
-RAG question-answering system
-
 # Embeddings and Vector Stores with Keras and TensorFlow
+RAG question-answering system
 
 This repository provides examples and documentation on using embeddings in machine learning applications, focusing on techniques for efficient storage and retrieval using vector stores. The code and references cover methods for processing embeddings with Keras, managing vector databases, and implementing retrieval-augmented generation (RAG) for question answering.
 
